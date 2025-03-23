@@ -1,0 +1,129 @@
+body {
+     font-family: Arial, sans-serif;
+     direction: rtl;
+     margin: 0;
+     padding: 0;
+     background-color: #f0f0f0;
+    }
+    h1 {
+         text-align: center;
+         font-size: 36px;
+         margin-top: 20px;
+         font-family: 'Vazir';
+        }
+        hr {
+             margin: 20px auto;
+             width: 99%;
+             border: 1px solid #1f1d1d;
+            }
+            .buttons-container {
+                 font-family: 'B Titr';
+                 font-size: 23px;
+                 display: flex;
+                 flex-wrap: wrap;
+                 justify-content: center;
+                 gap: 3px; /* فاصله ۳ پیکسلی بین دکمه‌ها */
+                 margin: 20px 0;
+                }
+                .button1 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button2 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center; }
+                .button3 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button4 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button5 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button6 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button7 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button8 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button9 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button10 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button11 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button12 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button13 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button14 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button15 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button16 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button17 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button18 { background-color: #3498db; color: white; padding: 10px 0px;border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button19 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button20 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button21 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button22 { background-color: #3498db; color: white; padding: 10px 0px; border: none; border-radius: 8px; cursor: pointer; transition: box-shadow 0.3s ease, transform 0.3s ease; min-width: 120px; font-size: 20px; text-align: center;}
+                .button1:hover {
+                     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+                     transform: translateY(-3px); 
+                    }
+                    .button2:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button3:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button4:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button5:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button6:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button7:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button8:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button9:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }
+                       .button1:hover {
+                        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* سایه پشت دکمه */
+                        transform: translateY(-3px); /* انیمیشن کوچک حرکت */
+                       }

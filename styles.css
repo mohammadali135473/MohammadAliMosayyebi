@@ -1,0 +1,202 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    direction: rtl;
+  }
+  
+  header {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .poem {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: 'B Titr';
+    font-size: 22px;
+    border-radius: 20px 30px;
+    border-color: rgb(82, 82, 82);
+    text-align: center;
+  }
+  p{
+    font-size: 20px;
+  }
+
+  .audio {
+    margin-top: 10px;
+  }
+  
+  .telegram-icon {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 50px;
+  }
+  .telegram-icon:hover
+  {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 3px 4px;
+    border-radius: 50px;
+  }
+
+  #noheh1
+  {
+    text-align: center;
+    font-family: 'B Tabassom';
+    font-size: 27px;
+
+  }
+  #ashar
+  {
+    color: rgb(255, 255, 255);    
+    font: 30px;
+    font-family: 'B Titr';
+  }
+  #ya-hossein
+  {
+    text-align: center;
+  }
+  .button
+  {
+    background-color: #00bcd4;
+    color: white;
+    font-family: 'B Titr';
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border: none;
+  }
+  .button:hover
+  {
+    background-color: #0097a7;
+    transform: scale(1.1);
+  }
+  .button-container 
+  {
+    animation: slideUp 1s forwards;
+    display: flex;
+    /*justify-content: center;
+    align-items: center;
+    height: 100vh;*/
+}
+.button1
+{
+  background-color: #00bcd4;
+  color: white;
+  font-family: 'B Titr';
+  font-size: 18px;
+  padding: 15px 30px;
+  border-radius: 9px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  border: none;
+  margin: 0 3px;
+}
+.button1:hover
+{
+  background-color: #0097a7;
+  transform: scale(1.1);
+}
+.button-container1
+{
+  animation: slideUp 1s forwards;
+  display: flex;
+  /*justify-content: center;
+  align-items: center;
+  height: 100vh;*/
+}
+.button2
+{
+  background-color: #00bcd4;
+  color: white;
+  font-family: 'B Titr';
+  font-size: 18px;
+  padding: 15px 30px;
+  border-radius: 9px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  border: none;
+  margin: 0 3px;
+}
+.button2:hover
+{
+  background-color: #0097a7;
+  transform: scale(1.1);
+}
+.button-container2
+{
+  animation: slideUp 1s forwards;
+  display: flex;
+  /*justify-content: center;
+  align-items: center;
+  height: 100vh;*/
+}
+  /*برای موبایل‌ها */
+ @media screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+ /*برای تبلت‌ها */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+ /*برای دسکتاپ‌ها */
+@media screen and (min-width: 1025px) {
+  body {
+    background-color: lightyellow;
+  }
+}
+#noheh
+{
+ max-width: 80%; /* حداکثر عرض عکس */
+ max-height: 80%; /* حداکثر ارتفاع عکس */
+ border: 13px solid white; /* حاشیه سفید */
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* سایه برای زیبایی */
+ border-radius:12px;
+ padding: 50px 70px;
+ background-image: url('preview.jpg');
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ text-align: center;
+ font-family: 'B Mehr';
+ font: size 21px;
+ color: rgb(41, 40, 40);
+ 
+}
+ #va-man
+ {
+  text-align: center;
+ }
+
+ #tabriz
+ {
+  text-align: center;
+ }
+
+ .darbareh
+ {
+  font-size: 14px;
+  font-family: 'B Titr';
+  text-align: center;
+ }
+ #matn
+ {
+
+ }
+ #matn2
+ {
+
+ }
